@@ -1,0 +1,12 @@
+{
+	"menu": [{
+		"name": "Home",
+		"file": "home.json"
+	}, {
+		"name": "Craft",
+		"file": "craft.json"
+	}, {
+		"name": "kids Hack",
+		"file": "kids.json"
+	}]
+}
